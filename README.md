@@ -3,4 +3,4 @@
 ## Grupo 101
 
 ### Actividades:
-1. [a relative link](Semaforos.ipynb) Semaforos
+1. [a relative link](Semaforo/Semaforos.ipynb) Semaforos
